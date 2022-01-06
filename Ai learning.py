@@ -27,6 +27,3 @@ for x in range (0,len(options)*int(1.13)):
     
 
     print(choice, options[choice], '\n', a)
-
-    
-
