@@ -1,3 +1,3 @@
-# AI-Tests
+# Python-Tests
 
-ai test stuff and other programs
+python test stuff and other programs
